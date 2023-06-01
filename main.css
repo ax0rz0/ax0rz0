@@ -13,20 +13,17 @@ background-color: whitesmoke
   height: 200px;
   background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red);
 }
-}
+
 
 
 h2 {
     word-spacing: 12px;
-    font-family: monospace;
+    font-family: "arial";
     color: white;
     
 }
 
 
-span {
-    color: white;
-}
 
 
 a {
@@ -36,5 +33,13 @@ a {
 }
 
 h4 {
- 
+ text-align: right;
+    font-size: 30px;
+    color: white;
+    font-family: "copperplate";
+}
+
+
+span.a {
+    background-color: darkorange;
 }
