@@ -1,0 +1,30 @@
+h1 {
+    font-size: 50;
+    background-color: lightgray;
+    font-family: "copperplate";
+    margin: static;
+    text-align: center;
+    
+}
+
+body {
+background-color: whitesmoke
+}
+
+
+h2 {
+    word-spacing: 12px;
+    font-family: monospace;
+    
+}
+
+
+span {
+    color: blueviolet;
+}
+
+
+p {
+ text-align: center;
+    font-family: fantasy;
+}
